@@ -14,4 +14,4 @@ For the ship, how to reduce fuel consumption under different internal working co
 > `Machine learning` or `deep learning`.We choose the latter.
 
 ### working condition identification dataset
-- This dataset contains 98,143 data entries, and the classification of the data is completed through manual annotation.The file is saved in 2024_06_24_14_59_31.mat.
+- This dataset contains 98,143 data entries, and the classification of the data is completed through manual annotation.The dataset is saved in 2024_06_24_14_59_31.mat.
