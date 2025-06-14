@@ -19,5 +19,5 @@ For the ship, how to reduce fuel consumption under different internal working co
 
 
 ### working condition identification dataset 
-- This dataset contains 98,143 data entries, and the classification of the data is completed through manual annotation. The dataset is saved in Data folder.
+- This dataset contains 98,143 data entries. The dataset is saved in Data folder.
 
